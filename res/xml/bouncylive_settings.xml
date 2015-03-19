@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings"
+    android:background="@color/white"
+    android:theme="@style/PreferencesTheme"
+    android:key="@string/global_sharedpreferences_key">
+    
+  <ListPreference android:key="@string/setting_key_gravitystate"
+    android:title="@string/setting_gravitystate_title" 
+    android:summary="@string/setting_gravitystate_summary"
+    android:entries="@array/gravity_state_labels" 
+    android:entryValues="@array/gravity_state_values"
+    android:dialogTitle="@string/setting_gravitystate_dialog_title"
+    android:persistent="true" 
+    android:defaultValue="0"
+    android:shouldDisableView="false" />
+    
+  <CheckBoxPreference android:key="@string/setting_key_tilt"
+        android:summary="@string/setting_accelerometer_summary"
+        android:title="@string/setting_accelerometer_title"
+        />        
+        
+  <com.infinitedonuts.bouncylive.SeekBarPreference android:key="@string/setting_key_gravitymagnitude"
+        android:title="Force of Gravity"
+        android:summary="@string/setting_gravitymagnitude_summary"
+        android:dialogMessage=""
+        android:defaultValue="0"
+        android:text=""
+        android:max="100"
+        />
+  <com.infinitedonuts.bouncylive.SeekBarPreference android:key="@string/setting_key_ballcount"
+        android:title="@string/setting_ballcount_title"
+        android:summary="@string/setting_ballcount_summary"
+        android:dialogMessage=""
+        android:defaultValue="14"
+        android:text=""
+        android:max="18"
+        />  
+
+    <com.cmwmobile.android.samples.GalleryDialogPreference_Color
+		android:key="@string/setting_key_backgroundcolor"
+		android:title="@string/setting_bgcolor_title"
+		android:summary="@string/setting_bgcolor_summary" />        
+        
+    <com.cmwmobile.android.samples.GalleryDialogPreference
+		android:key="@string/setting_key_palette"
+		android:title="@string/setting_palette_title"
+		android:summary="@string/setting_palette_summary" />
+
+  <ListPreference android:key="@string/setting_key_autochange"
+    android:title="@string/setting_autochange_title" 
+    android:summary="@string/setting_autochange_summary"
+    android:entries="@array/autochange_state_labels" 
+    android:entryValues="@array/autochange_state_values"
+    android:dialogTitle="@string/setting_autochange_dialog_title"
+    android:persistent="true" 
+    android:defaultValue="0"
+    android:shouldDisableView="false" />
+              
+</PreferenceScreen>

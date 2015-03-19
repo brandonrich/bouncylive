@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hola Mundo, BouncyLive!</string>
+    <string name="app_name">Bouncy Balls Live!</string>
+    <string name="settings">Configuraciones...</string>
+    <string name="setting_gravity_onoff_summary">Activar/desactivar la gravedad.  Recuerde que debe cambiar &quot;fuerza de la gravedad&quot; a un número distinto de cero.</string>
+    <string name="setting_gravity_onoff_title">Activar la Gravedad?</string>
+    <string-array name="gravity_state_labels">
+        <item>Si, regular</item>
+        <item>Si, invertida</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="gravity_state_values">
+        <item>1</item>
+        <item>-1</item>
+        <item>0</item>
+    </string-array>
+    <string name="setting_key_tilt">accelerometer_onoff</string>
+    <string name="setting_key_gravitystate">gravity_state</string>
+    <string name="setting_key_gravitymagnitude">gravityMagnitude</string>
+    <string name="setting_key_ballcount">ballCount</string>
+    <string name="setting_key_palette">palette_selection</string>
+    <string name="setting_ballcount_summary">Número de pelotas.  Disminuir para crear el mejor rendimiento en los dispositivos antiguos.</string>
+    <string name="setting_gravitymagnitude_summary">La magnitud de la fuerza de gravedad.  También debe activar la gravedad.</string>
+    <string name="setting_ballcount_title">Numero de Pelotas</string>
+    <string name="setting_accelerometer_summary">Cuando se activa, puede inclinar el dispositivo para cambiar la gravedad.</string>
+    <string name="setting_accelerometer_title">Controlar la Gravedad con Inclinación</string>
+    <string name="setting_gravitystate_summary">Activar/desactivar o invierte la gravedad</string>
+    <string name="setting_palette_summary">Paletas de colores de ColourLovers.com</string>
+    <string name="setting_palette_title">Paleta de Colores</string>
+    <string name="setting_gravitystate_title">Gravedad</string>
+    <string name="setting_gravitystate_dialog_title">Estado de la Gravedad</string>
+    <string name="setting_backgroundcolor_title">Color de Fondo</string>
+    <string name="setting_key_backgroundcolor">background_color</string>
+    <string name="setting_key_autochange">autochange_key</string>
+    <string name="setting_autochange_title">Intervalo de Cambio de Paleta Automática</string>
+    <string name="setting_autochange_summary">Elija un período de tiempo, si cualquier, para cambiar la paleta de colores automáticamente (selección aleatoria).</string>
+    <string-array name="autochange_state_labels">
+        <item>Nunca</item>
+        <item>Cada Minuto</item>
+        <item>Cada Hora</item>
+		<item>Cada Dia (a medianoche)</item>
+		<item>Cada Semana (a medianoche de Domingo)</item>        
+    </string-array>
+    <string-array name="autochange_state_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="setting_autochange_dialog_title">Cambiar la Paleta de Colores Automáticamente...</string>
+    <string name="global_sharedpreferences_key">bouncylive_settings</string>
+    <string name="setting_bgcolor_summary">Elija un color de fondo.  Blanco funciona mejor con una paleta de muchos colores, pero si desea opciones, que tenerlos!</string>
+    <string name="setting_bgcolor_title">Color de Fonda</string>    
+</resources>

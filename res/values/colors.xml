@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="opaque_red">#f00</color>
+   <color name="translucent_red">#80ff0000</color>
+   <color name="black">#000000</color>
+   <color name="lightBlue">#85ADFF</color>
+   <color name="orange">#FF7519</color>
+   <color name="green">#A3FF47</color>
+   <color name="yellow">#FFFF55</color>
+   <color name="white">#FFFFFF</color>
+   <color name="physicsBallGreen">#ff74AC23</color>
+   <color name="red">#ffFF0000</color>
+   <color name="purple">#ff9900AA</color>
+   <color name="darkBlue">#ff0000AA</color>
+</resources>

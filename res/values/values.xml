@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+ Copyright CMW Mobile.com, 2011. 
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<array name="colorCodes">
+<item>"FFFFFF"</item>
+<item>"000000"</item>
+<item>"0F06A2"</item>
+<item>"28811B"</item>
+<item>"31210F"</item>
+<item>"333333"</item>
+<item>"3B3B3B"</item>
+<item>"3F4E2F"</item>
+<item>"420943"</item>
+<item>"445121"</item>
+<item>"5097AD"</item>
+<item>"556270"</item>
+<item>"56B31C"</item>
+<item>"5B5C9E"</item>
+<item>"5F0609"</item>
+<item>"604830"</item>
+<item>"67DDC7"</item>
+<item>"6BA294"</item>
+<item>"806835"</item>
+<item>"901F0F"</item>
+<item>"907860"</item>
+<item>"919999"</item>
+<item>"948979"</item>
+<item>"A40802"</item>
+<item>"A8A878"</item>
+<item>"ADCD67"</item>
+<item>"B0CE9C"</item>
+<item>"B3A4C1"</item>
+<item>"BF5507"</item>
+<item>"C0B9F6"</item>
+<item>"C0C0C0"</item>
+<item>"C20562"</item>
+<item>"C3FF68"</item>
+<item>"CC4CF5"</item>
+<item>"D7E38A"</item>
+<item>"DE3F15"</item>
+<item>"DEEB04"</item>
+<item>"DFDBF9"</item>
+<item>"E29C49"</item>
+<item>"E67430"</item>
+<item>"E98013"</item>
+<item>"F1BE3F"</item>
+<item>"F8C7EB"</item>
+<item>"FD9337"</item>
+<item>"FF3333"</item>
+<item>"FF3838"</item>
+<item>"FF4040"</item>
+<item>"FF5500"</item>
+<item>"FF6B6B"</item>
+<item>"FFAA00"</item>
+<item>"FFCC00"</item>
+<item>"FFD90F"</item>
+<item>"FFDD00"</item>
+<item>"FFFF00"</item>
+	</array>	
+	
+	<array name="paletteIDs">
+		<item>"1315707"</item>
+		<item>"1363862"</item>
+		<item>"1394784"</item>
+		<item>"1444491"</item>
+		<item>"1460470"</item>
+		<item>"1477383"</item>
+		<item>"1494492"</item>
+		<item>"153341"</item>
+		<item>"1548563"</item>
+		<item>"1621718"</item>
+		<item>"1656690"</item>
+		<item>"1658861"</item>
+		<item>"1658864"</item>
+		<item>"1658868"</item>
+		<item>"1658872"</item>
+		<item>"1658874"</item>
+		<item>"1658877"</item>
+		<item>"1658883"</item>
+		<item>"1658894"</item>
+		<item>"1658903"</item>
+		<item>"1659395"</item>
+		<item>"1659401"</item>
+		<item>"1659403"</item>
+		<item>"1659429"</item>
+		<item>"1659435"</item>
+		<item>"1659455"</item>
+		<item>"1659459"</item>
+		<item>"1659468"</item>
+		<item>"1659470"</item>
+		<item>"1659490"</item>
+		<item>"1659497"</item>
+		<item>"1659508"</item>
+		<item>"1659522"</item>
+		<item>"1659529"</item>
+		<item>"1659532"</item>
+		<item>"1659615"</item>
+		<item>"192918"</item>
+		<item>"27980"</item>
+		<item>"321487"</item>
+		<item>"3316"</item>
+		<item>"489767"</item>
+		<item>"580974"</item>
+		<item>"584624"</item>
+		<item>"640403"</item>
+		<item>"700384"</item>
+		<item>"769408"</item>
+		<item>"77479"</item>
+		<item>"800980"</item>
+		<item>"819412"</item>
+		<item>"837175"</item>
+		<item>"8379"</item>
+		<item>"911861"</item>
+		<item>"921000"</item>
+		<item>"93026"</item>
+	</array>	
+</resources>

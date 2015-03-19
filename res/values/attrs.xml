@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<declare-styleable name="PhysicsBall">
+		<attr name="initialX" format="integer"/>
+		<attr name="initialY" format="integer"/>
+		<attr name="color" format="integer"/>
+		<attr name="radius" format="float"/>
+	</declare-styleable>
+
+	<!-- 
+	 Copyright CMW Mobile.com, 2011.
+	 -->
+	<declare-styleable name="GalleryTheme">
+		<attr name="android:galleryItemBackground" />
+	</declare-styleable>
+
+</resources>
